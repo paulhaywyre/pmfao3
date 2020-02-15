@@ -1,0 +1,26 @@
+{
+	"forcedataintro": [{
+			"id": 1,
+			"title": "Force data figures",
+			"content": "As of October 21st, we've updated the penetration rate table. Avergae penetration rate is: 35%",
+			"hours": "Mon-Fri 8:30am - 5:30pm",
+			"publishedDate": "2019-10-24",
+			"lastUpdated": "2019-10-21T09:28:56"
+		}
+	],
+	"forcedata": [{
+			"id": 1,
+			"force": "GMP",
+			"penetration": "43.0%",
+			"publishedDate": "2019-10-24",
+			"lastUpdated": "2019-10-21T09:28:56"
+		},
+		{
+			"id": 2,
+			"force": "The Met",
+			"penetration": "41.3%",
+			"publishedDate": "2019-10-24",
+			"lastUpdated": "2019-10-21T09:28:56"
+		}
+	],
+}
